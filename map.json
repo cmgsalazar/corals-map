@@ -1,0 +1,1847 @@
+[
+  {
+    "role":"Transit Location",
+    "county":"Hanover",
+    "state":null,
+    "country":"Germany",
+    "lat":52.4618486,
+    "lng":9.6889919,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2023
+  },
+  {
+    "role":"Transit Location",
+    "county":"Hanover",
+    "state":null,
+    "country":"Germany",
+    "lat":52.4618486,
+    "lng":9.6889919,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":"Miami-Dade",
+    "state":"Florida",
+    "country":"U.S.",
+    "lat":25.7616798,
+    "lng":-80.1917902,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":"Dhuvaafaru",
+    "state":"Raa Atoll",
+    "country":"Maldives",
+    "lat":5.6297825,
+    "lng":73.0368465,
+    "year":2016
+  },
+  {
+    "role":"Transit Location",
+    "county":"West Lombok",
+    "state":"West Nusa Tenggara",
+    "country":"Indonesia",
+    "lat":-8.655497,
+    "lng":116.13039,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.396428,
+    "lng":114.109497,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Riau Islands",
+    "country":"Indonesia",
+    "lat":1.045626,
+    "lng":104.030454,
+    "year":2024
+  },
+  {
+    "role":"Transit Location",
+    "county":"West Lombok",
+    "state":"West Nusa Tenggara",
+    "country":"Indonesia",
+    "lat":-8.729662,
+    "lng":116.072855,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Singapore",
+    "lat":1.352083,
+    "lng":103.819836,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Occidental Mindoro",
+    "country":"Philippines",
+    "lat":13.7807021,
+    "lng":120.184427,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Philippines",
+    "lat":12.879721,
+    "lng":121.774017,
+    "year":2022
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Alaska",
+    "country":"U.S.",
+    "lat":61.218056,
+    "lng":-149.900278,
+    "year":2022
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Veracruz",
+    "country":"Mexico",
+    "lat":19.333333,
+    "lng":-96.666667,
+    "year":2015
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Ontario",
+    "country":"Canada",
+    "lat":43.677718,
+    "lng":-79.62482,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.396428,
+    "lng":114.109497,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Kabul",
+    "country":"Afghanistan",
+    "lat":34.555349,
+    "lng":69.207486,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Thailand",
+    "lat":13.802045,
+    "lng":100.545937,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":"Bang Phli",
+    "state":"Bangkok Metropolitan",
+    "country":"Thailand",
+    "lat":13.6925,
+    "lng":100.75,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Puerto Rico",
+    "lat":18.220833,
+    "lng":-66.590149,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Viet Nam",
+    "lat":14.058324,
+    "lng":108.277199,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":"Los Angeles",
+    "state":"California",
+    "country":"U.S.",
+    "lat":33.9415889,
+    "lng":-118.40853,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":"Sumbawa",
+    "state":"West Nusa Tenggara",
+    "country":"Indonesia",
+    "lat":-8.738072,
+    "lng":118.117108,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Bangkok",
+    "country":"Thailand",
+    "lat":13.7533503,
+    "lng":100.5048294,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":"Banyuwangi",
+    "state":"East Java",
+    "country":"Indonesia",
+    "lat":-8.2186,
+    "lng":114.3669,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":"Jembrana",
+    "state":"Bali",
+    "country":"Indonesia",
+    "lat":-8.16098,
+    "lng":114.434499,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Tunisia",
+    "lat":33.886917,
+    "lng":9.537499,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"China",
+    "lat":35.86166,
+    "lng":104.195397,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Latvia",
+    "lat":56.959252,
+    "lng":24.094683,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":"Annaba",
+    "state":"Annaba",
+    "country":"Algeria",
+    "lat":36.935778,
+    "lng":7.809906,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":"El Taref",
+    "state":"El Taref",
+    "country":"Algeria",
+    "lat":36.952395,
+    "lng":8.349609,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":"Skikda",
+    "state":"Skikda",
+    "country":"Algeria",
+    "lat":36.896272,
+    "lng":6.927223,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Bangkok",
+    "country":"Thailand",
+    "lat":13.7533503,
+    "lng":100.5048294,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Solomon Islands",
+    "lat":-9.64571,
+    "lng":160.156194,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Singapore",
+    "lat":1.352083,
+    "lng":103.819836,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Seychelles",
+    "lat":-4.5,
+    "lng":55.6,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Philippines",
+    "lat":12.879721,
+    "lng":121.774017,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Ethiopia",
+    "lat":8.983215,
+    "lng":38.796018,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Batangas",
+    "country":"Philippines",
+    "lat":13.945,
+    "lng":121.1312,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Quintana Roo",
+    "country":"Mexico",
+    "lat":20.4229839,
+    "lng":-86.9223432,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Cebu",
+    "country":"Philippines",
+    "lat":10.2569872,
+    "lng":123.8299639,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Thailand",
+    "lat":13.802045,
+    "lng":100.545937,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":"Osaka",
+    "state":null,
+    "country":"Japan",
+    "lat":34.432002,
+    "lng":135.230394,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Beijing",
+    "country":"China",
+    "lat":40.080101,
+    "lng":116.5849991,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":"Islands",
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.2975998,
+    "lng":113.9356384,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Macau",
+    "lat":22.1638538,
+    "lng":113.5785521628,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Lesser Poland",
+    "country":"Portugal",
+    "lat":50.0786354,
+    "lng":19.7907976,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Seychelles",
+    "lat":-4.5,
+    "lng":55.6,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Masovian",
+    "country":"Poland",
+    "lat":52.216835,
+    "lng":20.9913845,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2025
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Jiangsu",
+    "country":"China",
+    "lat":33.383333,
+    "lng":120.116667,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"U.S.",
+    "lat":37.09024,
+    "lng":-95.712891,
+    "year":2025
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Philippines",
+    "lat":12.879721,
+    "lng":121.774017,
+    "year":2025
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2025
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Philippines",
+    "lat":12.879721,
+    "lng":121.774017,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"California",
+    "country":"U.S.",
+    "lat":38.028623,
+    "lng":-121.294952,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Florida",
+    "country":"U.S.",
+    "lat":28.4250763,
+    "lng":-81.8468494,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Ohio",
+    "country":"U.S.",
+    "lat":40.5,
+    "lng":-82.5,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Pennsylvania",
+    "country":"U.S.",
+    "lat":41.2033216,
+    "lng":-77.1945247,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"New York",
+    "country":"U.S.",
+    "lat":42.9370842,
+    "lng":-75.6107025,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Texas",
+    "country":"U.S.",
+    "lat":31.0,
+    "lng":-100.0,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":"Middlesex",
+    "state":"Massachusetts",
+    "country":"U.S.",
+    "lat":42.460278,
+    "lng":-71.349444,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"North Holland",
+    "country":"Netherlands",
+    "lat":52.3702157,
+    "lng":4.8951679,
+    "year":2017
+  },
+  {
+    "role":"Transit Location",
+    "county":"Mathura",
+    "state":"Uttar Pradesh",
+    "country":"India",
+    "lat":27.2933,
+    "lng":77.4025,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":"Thoothukudi",
+    "state":"Tamil Nadu",
+    "country":"India",
+    "lat":8.776697,
+    "lng":78.110998,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Philippines",
+    "lat":12.879721,
+    "lng":121.774017,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Andalusia",
+    "country":"Spain",
+    "lat":37.333271,
+    "lng":-4.57519,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Bahamas",
+    "lat":25.03428,
+    "lng":-77.39628,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"U.S.",
+    "lat":37.09024,
+    "lng":-95.712891,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":"Chiba",
+    "state":null,
+    "country":"Japan",
+    "lat":35.7719867,
+    "lng":140.3928501,
+    "year":2016
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Liguria",
+    "country":"Italy",
+    "lat":44.409167,
+    "lng":8.928717,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"India",
+    "lat":14.1037945,
+    "lng":82.8932894,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":"Osaka",
+    "state":null,
+    "country":"Japan",
+    "lat":34.432002,
+    "lng":135.230394,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Seychelles",
+    "lat":-4.5,
+    "lng":55.6,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Australia",
+    "lat":-25.274398,
+    "lng":133.775136,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Viet Nam",
+    "lat":14.058324,
+    "lng":108.277199,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cuba",
+    "lat":21.521757,
+    "lng":-77.781167,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Dominican Republic",
+    "lat":18.735693,
+    "lng":-70.162651,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Kuwait",
+    "lat":29.31166,
+    "lng":47.481766,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Oman",
+    "lat":21.512583,
+    "lng":55.923255,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Bali",
+    "country":"Indonesia",
+    "lat":-8.409518,
+    "lng":115.188916,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Australia",
+    "lat":-25.274398,
+    "lng":133.775136,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Costa Rica",
+    "lat":9.748917,
+    "lng":-83.753428,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Malaysia",
+    "lat":4.210484,
+    "lng":101.975766,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cayman Islands",
+    "lat":19.513469,
+    "lng":-80.566956,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Argentina",
+    "lat":-38.416097,
+    "lng":-63.616672,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Canada",
+    "lat":56.130366,
+    "lng":-106.346771,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Malaysia",
+    "lat":4.210484,
+    "lng":101.975766,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Dominican Republic",
+    "lat":18.735693,
+    "lng":-70.162651,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Mexico",
+    "lat":23.634501,
+    "lng":-102.552784,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Curacao",
+    "lat":12.183333,
+    "lng":-69.0,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Maldives",
+    "lat":3.202778,
+    "lng":73.22068,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Israel",
+    "lat":31.046051,
+    "lng":34.851612,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cuba",
+    "lat":21.521757,
+    "lng":-77.781167,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Ukraine",
+    "lat":48.379433,
+    "lng":31.16558,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Belarus",
+    "lat":53.709807,
+    "lng":27.953389,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Egypt",
+    "lat":26.820553,
+    "lng":30.802498,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cuba",
+    "lat":21.521757,
+    "lng":-77.781167,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Ukraine",
+    "lat":48.379433,
+    "lng":31.16558,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Seychelles",
+    "lat":-4.5,
+    "lng":55.6,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Curacao",
+    "lat":12.183333,
+    "lng":-69.0,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Ukraine",
+    "lat":48.379433,
+    "lng":31.16558,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":"Kanyakumari",
+    "state":"Tamil Nadu",
+    "country":"India",
+    "lat":8.32352,
+    "lng":77.3324425,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":"Marathwada",
+    "state":"Maharashtra",
+    "country":"India",
+    "lat":17.273284,
+    "lng":73.272667,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":"Badung",
+    "state":"Bali",
+    "country":"Indonesia",
+    "lat":-8.69933,
+    "lng":115.16717,
+    "year":2016
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"South Holland",
+    "country":"Netherlands",
+    "lat":51.885,
+    "lng":4.2867,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Madagascar",
+    "lat":-18.766947,
+    "lng":46.869107,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.396428,
+    "lng":114.109497,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Taiwan",
+    "lat":23.69781,
+    "lng":120.960515,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.396428,
+    "lng":114.109497,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Moscow Oblast",
+    "country":"Russia",
+    "lat":55.755826,
+    "lng":37.6173,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Bangkok",
+    "country":"Thailand",
+    "lat":13.7533503,
+    "lng":100.5048294,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Bahia",
+    "country":"Brazil",
+    "lat":-16.40474135,
+    "lng":-39.41720537,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":"Metropolitan City of Rome",
+    "state":"Lazio",
+    "country":"Italy",
+    "lat":41.7754952,
+    "lng":12.2327926,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Campania",
+    "country":"Italy",
+    "lat":40.851775,
+    "lng":14.268124,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Campania",
+    "country":"Italy",
+    "lat":40.8847493,
+    "lng":14.2870543,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Greece",
+    "lat":39.074208,
+    "lng":21.824312,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":"Osaka",
+    "state":"Kansai",
+    "country":"Japan",
+    "lat":34.693889,
+    "lng":135.502222,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"India",
+    "lat":20.593684,
+    "lng":78.96288,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Indonesia",
+    "lat":-0.789275,
+    "lng":113.921327,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Singapore",
+    "lat":1.352083,
+    "lng":103.819836,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Turkey",
+    "lat":38.963745,
+    "lng":35.243322,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Eritrea",
+    "lat":15.008223,
+    "lng":39.529037,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Korea",
+    "lat":35.907757,
+    "lng":127.766922,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":"Tel Aviv",
+    "state":"Gush Dan",
+    "country":"Israel",
+    "lat":32.0879048,
+    "lng":34.7148447,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cuba",
+    "lat":21.521757,
+    "lng":-77.781167,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"India",
+    "lat":20.593684,
+    "lng":78.96288,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":"Tsihombe",
+    "state":"Androy",
+    "country":"Madagascar",
+    "lat":-25.568237,
+    "lng":45.529792,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Tanzania",
+    "lat":-6.369028,
+    "lng":34.888822,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Solomon Islands",
+    "lat":-9.64571,
+    "lng":160.156194,
+    "year":2018
+  },
+  {
+    "role":"Transit Location",
+    "county":"Thuy Nguyen",
+    "state":"Hai An",
+    "country":"Viet Nam",
+    "lat":20.8147445,
+    "lng":106.7588494,
+    "year":2018
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Riau Islands",
+    "country":"Indonesia",
+    "lat":1.045626,
+    "lng":104.030454,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Macau",
+    "lat":22.198745,
+    "lng":113.543873,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.396428,
+    "lng":114.109497,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Viet Nam",
+    "lat":14.058324,
+    "lng":108.277199,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Masbate",
+    "country":"Philippines",
+    "lat":11.920521136,
+    "lng":123.7531510387,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Viet Nam",
+    "lat":14.058324,
+    "lng":108.277199,
+    "year":2020
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Guangxi",
+    "country":"China",
+    "lat":21.547778,
+    "lng":107.971667,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Japan",
+    "lat":36.204824,
+    "lng":138.252924,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":"St. James",
+    "state":"Cornwall",
+    "country":"Jamaica",
+    "lat":18.471215,
+    "lng":-77.9398017,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Grand Cayman",
+    "country":"Cayman Islands",
+    "lat":19.32217,
+    "lng":-81.240869,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Quintana Roo",
+    "country":"Mexico",
+    "lat":20.4229839,
+    "lng":-86.9223432,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":"Bangalore",
+    "state":"Karnataka",
+    "country":"India",
+    "lat":12.9658632,
+    "lng":77.5798301,
+    "year":2020
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Pratas Islands",
+    "country":"Taiwan",
+    "lat":20.7,
+    "lng":116.7166667,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Viet Nam",
+    "lat":14.058324,
+    "lng":108.277199,
+    "year":2021
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Maldives",
+    "lat":3.202778,
+    "lng":73.22068,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Dubai Emirate",
+    "country":"United Arab Emirates",
+    "lat":25.2464104,
+    "lng":55.3547516,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"U.S.",
+    "lat":37.09024,
+    "lng":-95.712891,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":"Kolkata",
+    "state":"West Bengal",
+    "country":"India",
+    "lat":22.572646,
+    "lng":88.363895,
+    "year":2022
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"New Caledonia",
+    "lat":-20.904305,
+    "lng":165.618042,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Dominican Republic",
+    "lat":18.735693,
+    "lng":-70.162651,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Equatorial Guinea",
+    "lat":1.650801,
+    "lng":10.267895,
+    "year":2015
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"U.S.",
+    "lat":37.09024,
+    "lng":-95.712891,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Cuba",
+    "lat":21.521757,
+    "lng":-77.781167,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":null,
+    "country":"Spain",
+    "lat":40.463667,
+    "lng":-3.74922,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Sudan",
+    "lat":12.862807,
+    "lng":30.217636,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Madagascar",
+    "lat":-18.766947,
+    "lng":46.869107,
+    "year":2017
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Singapore",
+    "lat":1.352083,
+    "lng":103.819836,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Oriental",
+    "country":"Morocco",
+    "lat":35.168616,
+    "lng":-2.927584,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Andalusia",
+    "country":"Spain",
+    "lat":36.830487,
+    "lng":-2.46907,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":"Livorno",
+    "state":"Tuscany",
+    "country":"Italy",
+    "lat":43.551944,
+    "lng":10.308333,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Greece",
+    "lat":39.074208,
+    "lng":21.824312,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":"Ancona",
+    "state":"Marche",
+    "country":"Italy",
+    "lat":43.620329,
+    "lng":13.5067823,
+    "year":2019
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"North Holland",
+    "country":"Netherlands",
+    "lat":52.310539,
+    "lng":4.768274,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"China",
+    "lat":35.86166,
+    "lng":104.195397,
+    "year":2016
+  },
+  {
+    "role":"Transit Location",
+    "county":"Wuhan",
+    "state":"Hubei",
+    "country":"China",
+    "lat":31.13958,
+    "lng":112.246502,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Guangdong",
+    "country":"China",
+    "lat":23.13,
+    "lng":113.26,
+    "year":2023
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Jiangsu",
+    "country":"China",
+    "lat":31.73359,
+    "lng":118.8692583,
+    "year":2022
+  },
+  {
+    "role":"Origin Location",
+    "county":"Kwun Tong",
+    "state":null,
+    "country":"Hong Kong",
+    "lat":22.2976432,
+    "lng":114.2322921,
+    "year":2023
+  },
+  {
+    "role":"Transit Location",
+    "county":"Wuhan",
+    "state":"Hubei",
+    "country":"China",
+    "lat":31.13958,
+    "lng":112.246502,
+    "year":2022
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Morelos",
+    "country":"Mexico",
+    "lat":18.7324794,
+    "lng":-99.343866,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Hainan",
+    "country":"China",
+    "lat":19.2561281837,
+    "lng":110.4719072088,
+    "year":2023
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"Hainan",
+    "country":"China",
+    "lat":19.566395,
+    "lng":109.949684,
+    "year":2023
+  },
+  {
+    "role":"Transit Location",
+    "county":null,
+    "state":"Jiangsu",
+    "country":"China",
+    "lat":31.49988325,
+    "lng":120.43053138,
+    "year":2019
+  },
+  {
+    "role":"Origin Location",
+    "county":"Calayan",
+    "state":"Cagayan",
+    "country":"Philippines",
+    "lat":19.5232242,
+    "lng":121.9406675,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":"Calayan",
+    "state":"Cagayan",
+    "country":"Philippines",
+    "lat":19.5232242,
+    "lng":121.9406675,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"China",
+    "lat":35.86166,
+    "lng":104.195397,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":"Sumbawa",
+    "state":"West Nusa Tenggara",
+    "country":"Indonesia",
+    "lat":-8.738072,
+    "lng":118.117108,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":"West Nusa Tenggara",
+    "country":"Indonesia",
+    "lat":-8.5970808,
+    "lng":116.1004894,
+    "year":2016
+  },
+  {
+    "role":"Origin Location",
+    "county":null,
+    "state":null,
+    "country":"Curacao",
+    "lat":12.183333,
+    "lng":-69.0,
+    "year":2017
+  }
+]

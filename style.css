@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+    --sans-serif: "Parkinsans", "Comfortaa", Helvetica, Arial, sans-serif;
+    --serif: "Cormorant", "Petrona", Times, serif;
+    --title: "Fredoka", "Quicksand", Helvetica, Arial, sans-serif;
+    --deepblue: #0e1651;
+    --lightblue: #7DBCDE;
+    --white: #ffffff;
+    --darkgrey: #343434;
+}
+
+body {
+  line-height: 1.6;
+}
+
+.map-container {
+  padding: 20px 20px 5px; 
+
+  h2 {
+    font-family: var(--title);
+    color: var(--deepblue);
+    font-size: 1.6rem;
+  }
+
+  .map-description {
+    font-family: var(--title);
+    color: var(--darkgrey);
+    font-size: 0.9rem;
+    margin-bottom: 16px;
+
+    .origin,
+    .transit {
+      text-transform: uppercase;
+      font-family: var(--sans-serif);
+      color: var(--white);
+      padding: 3px;
+      border-radius: 6px;
+      font-size: 0.9em;
+    }
+
+    .origin {
+      background-color: #2563eb;
+    }
+
+    .transit {
+      background-color: #ea580c;
+    }
+  }
+
+  .map-credit {
+    color: var(--darkgrey);
+    margin: 10px 0;
+    font-family: var(--title);
+    font-size: 0.8rem;
+  }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+}
+
+#map {
+  width: 100%;
+  height: 600px;
+  border-radius: 4px;
+}
+
+.popup {
+  font-family: var(--sans-serif);
+}
+
+.tooltip-role {
+  padding: 2px;
+  color: var(--white);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.tooltip-location {
+  font-weight: 600;
+}
+
+.tooltip-years {
+  padding-top: 20px;
+}
